@@ -15,12 +15,28 @@
 </p>
 
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<!-- Stats -->
+<h4>Tools & Languages</h2>
+<p align="center">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/89097b28-932f-466e-a5fb-6266dcb7b54b" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/18002b47-e52f-44eb-b06c-0da207564f3d" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/4fe963ff-9337-4c9f-a691-d66d342b5df9" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/d8730e78-a181-4d7f-96c7-89460973f6bd" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/cacb5e9f-84c8-47ac-ad10-48d4ff2bbd2b" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/f7a1c6d1-5670-43c1-a6bd-194d0fb823d4" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/c80e8519-14ff-4a79-bc7e-cae4c85ef863" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/acb7ac76-6759-41e5-8207-e1b71568945f" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/32f9e01c-0944-43f9-9647-e9ba5e22d3f4" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/d14771eb-d677-4149-930b-4cd82f2939ba" width="50" height="50">
+  <img src="https://cdn.phaser.io/images/logo/phaser-logo.svg" width="50" height="50">
+  <img src="https://sailsjs.com/images/logos/sails-logo_dkBg_dkBlue.png" width="50" height="20">
+</p>
 
+
+
+
+<!-- Stats -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=julia-lika&show_icons=true&rank_icon=github&theme=tokyonight" />
@@ -35,6 +51,13 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
 <br>
+
+<p align="center">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/17e6acc8-e832-4ffd-9a2a-c6b3d8e6cb35" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/5b010b14-2342-4c6f-8a17-af05722af263" width="50" height="50">
+  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/3056a7ce-f0d0-4fda-bf0c-c7300a14c670" width="50" height="50">
+</p>
+
 
 <div align="center"> 
 <picture>
