@@ -17,7 +17,7 @@
 
 - 🏆 In 2022, I received a full scholarship to study Artificial Intelligence and Machine Learning in Boston, Massachusetts, after a selection process.
 - 🎓 Comp-Sci at INTELI - Instituto de Tecnologia e Liderança, in Brazil (since 2024).
-- 🎮 I collaborated on a game project with Meta, focusing on gamification strategies.
+- 🎮 Worked on a game project with Meta, focusing on gamification strategies for a internal process of the company.
 - 🐾: As part of the 'Abandono Zero' project in collaboration with INSPA, my team and I developed a responsive web application to understand the reasons behind pet adoption, purchase, and abandonment in Brazil, aiming to mitigate the issue of pet abandonment.
 
 
