@@ -59,9 +59,15 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/17e6acc8-e832-4ffd-9a2a-c6b3d8e6cb35" width="50" height="50">
-  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/5b010b14-2342-4c6f-8a17-af05722af263" width="50" height="50">
-  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/3056a7ce-f0d0-4fda-bf0c-c7300a14c670" width="50" height="50">
+  <a href="https://www.linkedin.com/in/j%C3%BAlia-lika-ishikawa/" target="_blank">
+    <img src="https://github.com/julia-lika/julia-lika/assets/159062938/17e6acc8-e832-4ffd-9a2a-c6b3d8e6cb35" width="50" height="50">
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://github.com/julia-lika/julia-lika/assets/159062938/5b010b14-2342-4c6f-8a17-af05722af263" width="50" height="50">
+  </a>
+  <a href="https://github.com/your-profile" target="_blank">
+    <img src="https://github.com/julia-lika/julia-lika/assets/159062938/3056a7ce-f0d0-4fda-bf0c-c7300a14c670" width="50" height="50">
+  </a>
 </p>
 
 
