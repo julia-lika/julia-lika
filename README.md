@@ -11,14 +11,14 @@
 
 <!-- Introducing myself -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Júlia+Lika+Ishikawa...;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Júlia+Lika+Ishikawa...;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner;Love+to+learn+new+stuff!"></a>
 </p>
 
 
 - 🏆 In 2022, I received a full scholarship to study Artificial Intelligence and Machine Learning in Boston, Massachusetts, after a competitive selection process.
-- 🎓 INTELI - Instituto de Tecnologia e Liderança
+- 🎓 Comp-Sci at INTELI - Instituto de Tecnologia e Liderança, in Brazil (since 2024).
 - 🎮 I collaborated on a game project with Meta, focusing on gamification strategies.
-- 🐾: As part of the 'Abandono Zero' project in collaboration with INSPA, I developed a responsive web application to understand the reasons behind pet adoption, purchase, and abandonment in Brazil, aiming to mitigate the issue of pet abandonment.
+- 🐾: As part of the 'Abandono Zero' project in collaboration with INSPA, my team and I developed a responsive web application to understand the reasons behind pet adoption, purchase, and abandonment in Brazil, aiming to mitigate the issue of pet abandonment.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
