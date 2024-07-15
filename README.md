@@ -14,11 +14,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Júlia+Lika+Ishikawa...;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner;Love+to+learn+new+stuff!"></a>
 </p>
 
-- 🌟 Reprograma Teens Alumni: Discovered my passion for technology during a bootcamp for low-income girls in 2020. I enrolled in the first class of the project.
-- 🏆 In 2022, I received a full scholarship to study Artificial Intelligence and Machine Learning in Boston, Massachusetts, after a selection process.
-- 🎓 Comp-Sci at INTELI - Instituto de Tecnologia e Liderança, in Brazil (since 2024).
-- 🎮 Worked on a game project with Meta, focusing on gamification strategies for a internal process of the company.
-- 🐾: As part of the 'Abandono Zero' project in collaboration with INSPA, my team and I developed a responsive web application to understand the reasons behind pet adoption, purchase, and abandonment in Brazil, aiming to mitigate the issue of pet abandonment.
+- **🌟 Reprograma Teens Alumni:** Discovered my passion for technology during a bootcamp for low-income girls in 2020. I enrolled in the first class of the project.
+- 🏆 In 2022, I received a full scholarship to study **Artificial Intelligence and Machine Learning in Boston, Massachusetts**, after a selection process.
+- 🎓 Comp-Sci at **INTELI - Instituto de Tecnologia e Liderança, in Brazil** (since 2024).
+- 🎮 Worked on a **game project** with **Meta**, focusing on gamification strategies for a internal process of the company.
+- 🐾: As part of the 'Abandono Zero' project in collaboration with **INSPA (Instituto de Psicologia Animal)**, my team and I developed a responsive **web application** to understand the reasons behind pet adoption, purchase, and abandonment in Brazil, *aiming to mitigate the issue of pet abandonment*.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
