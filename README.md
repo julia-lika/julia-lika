@@ -58,25 +58,26 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/j%C3%BAlia-lika-ishikawa/" target="_blank">
-    <img src="https://github.com/julia-lika/julia-lika/assets/159062938/17e6acc8-e832-4ffd-9a2a-c6b3d8e6cb35" width="50" height="50">
-  </a>
+  <div style="display: flex; justify-content: space-between;">
+    <div style="display:flex; align-items:center;">
+    <a href="https://www.linkedin.com/in/j%C3%BAlia-lika-ishikawa/" target="_blank">
+      <img src="https://github.com/julia-lika/julia-lika/assets/159062938/17e6acc8-e832-4ffd-9a2a-c6b3d8e6cb35" width="50" height="50">
+    </a>
+    <!--
+    <a href="https://twitter.com/your-profile" target="_blank">
+      <img src="https://github.com/julia-lika/julia-lika/assets/159062938/5b010b14-2342-4c6f-8a17-af05722af263" width="50" height="50">
+    </a>
+    <a href="https://github.com/your-profile" target="_blank">
+      <img src="https://github.com/julia-lika/julia-lika/assets/159062938/3056a7ce-f0d0-4fda-bf0c-c7300a14c670" width="50" height="50">
+    </a>
+    -->
+  </div>
 
-  <!--
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://github.com/julia-lika/julia-lika/assets/159062938/5b010b14-2342-4c6f-8a17-af05722af263" width="50" height="50">
-  </a>
-  <a href="https://github.com/your-profile" target="_blank">
-    <img src="https://github.com/julia-lika/julia-lika/assets/159062938/3056a7ce-f0d0-4fda-bf0c-c7300a14c670" width="50" height="50">
-  </a> -->
-</p>
-
-
-<div align="center"> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+  <div align="center"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+  </div>
