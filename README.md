@@ -14,7 +14,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Júlia+Lika+Ishikawa...;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner;Love+to+learn+new+stuff!"></a>
 </p>
 
-
+- 🌟 Reprograma Teens Alumni: Discovered my passion for technology during a bootcamp for low-income girls in 2020. I enrolled in the first class of the project.
 - 🏆 In 2022, I received a full scholarship to study Artificial Intelligence and Machine Learning in Boston, Massachusetts, after a selection process.
 - 🎓 Comp-Sci at INTELI - Instituto de Tecnologia e Liderança, in Brazil (since 2024).
 - 🎮 Worked on a game project with Meta, focusing on gamification strategies for a internal process of the company.
