@@ -23,7 +23,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<h4>Tools & Languages</h2>
+<h3>Tools & Languages</h3>
 <p align="center">
   <img src="https://github.com/julia-lika/julia-lika/assets/159062938/89097b28-932f-466e-a5fb-6266dcb7b54b" width="50" height="50">
   <img src="https://github.com/julia-lika/julia-lika/assets/159062938/18002b47-e52f-44eb-b06c-0da207564f3d" width="50" height="50">
@@ -39,10 +39,8 @@
   <img src="https://sailsjs.com/images/logos/sails-logo_dkBg_dkBlue.png" width="50" height="20">
 </p>
 
-
-
-
 <!-- Stats -->
+<h3>Stats</h3>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=julia-lika&show_icons=true&rank_icon=github&theme=tokyonight" />
