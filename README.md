@@ -11,13 +11,15 @@
 
 <!-- Introducing myself -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Júlia+Lika+Ishikawa...;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner,;Love+to+learn+new+stuff!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Júlia+Lika+Ishikawa...;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs!"></a>
 </p>
+
 
 - 🏆 In 2022, I received a full scholarship to study Artificial Intelligence and Machine Learning in Boston, Massachusetts, after a competitive selection process.
 - 🎓 INTELI - Instituto de Tecnologia e Liderança
 - 🎮 I collaborated on a game project with Meta, focusing on gamification strategies.
 - 🐾: As part of the 'Abandono Zero' project in collaboration with INSPA, I developed a responsive web application to understand the reasons behind pet adoption, purchase, and abandonment in Brazil, aiming to mitigate the issue of pet abandonment.
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -37,7 +39,10 @@
   <img src="https://sailsjs.com/images/logos/sails-logo_dkBg_dkBlue.png" width="50" height="20">
 </p>
 
-## <img src="https://github-readme-stats.vercel.app/api?username=julia-lika&show_icons=true&rank_icon=github&theme=tokyonight" width="100"> Stats
+
+
+
+<!-- Stats -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=julia-lika&show_icons=true&rank_icon=github&theme=tokyonight" />
@@ -58,6 +63,7 @@
   <img src="https://github.com/julia-lika/julia-lika/assets/159062938/5b010b14-2342-4c6f-8a17-af05722af263" width="50" height="50">
   <img src="https://github.com/julia-lika/julia-lika/assets/159062938/3056a7ce-f0d0-4fda-bf0c-c7300a14c670" width="50" height="50">
 </p>
+
 
 <div align="center"> 
 <picture>
