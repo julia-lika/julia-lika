@@ -1,3 +1,6 @@
+<div align="center">
+<img align="center" width="100%" src="banner.png">
+</div>
 <!-- Hello World Title -->
 
 <h1 align="center">
@@ -10,9 +13,6 @@
   </a>
 </h1>
 
-<div align="center">
-<img align="center" width="100%" src="banner.png">
-</div>
 
 <!-- Introducing myself -->
 
