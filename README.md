@@ -33,7 +33,7 @@
 </table>
 </div>
 
-<p align="center">Contact </p>
+<p align="center">To see more of my recent projects click here:</p>
 <p align="center">
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-lika-ishikawa/" alt="LinkedIn"/></a>
@@ -58,6 +58,8 @@
   <img src="https://github.com/julia-lika/julia-lika/assets/159062938/32f9e01c-0944-43f9-9647-e9ba5e22d3f4" width="50" height="50">
 </p>
 
+<br><br>
+
 <img algin="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- Stats -->
 <h3>Stats</h3>
@@ -74,6 +76,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julia-lika&layout=compact&card_width=320&theme=tokyonight&card_width=320" />
 </a>
 </div>
-<br>
+<br><br><br>
 
 <img algin="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
