@@ -33,7 +33,7 @@
 </table>
 </div>
 
-<p align="center">Let's connect!</p>
+<p align="center">Contact </p>
 <p align="center">
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-lika-ishikawa/" alt="LinkedIn"/></a>
@@ -56,9 +56,6 @@
   <img src="https://github.com/julia-lika/julia-lika/assets/159062938/4fe963ff-9337-4c9f-a691-d66d342b5df9" width="50" height="50">
   <img src="https://github.com/julia-lika/julia-lika/assets/159062938/c80e8519-14ff-4a79-bc7e-cae4c85ef863" width="50" height="50">
   <img src="https://github.com/julia-lika/julia-lika/assets/159062938/32f9e01c-0944-43f9-9647-e9ba5e22d3f4" width="50" height="50">
-  <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" width="50" height="50">
-  <img src="https://github.com/julia-lika/julia-lika/assets/159062938/d14771eb-d677-4149-930b-4cd82f2939ba" width="50" height="50">
-
 </p>
 
 <img algin="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
