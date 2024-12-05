@@ -27,7 +27,7 @@
       <img src="https://i.pinimg.com/564x/61/fb/87/61fb87f98f6c04086eddef97c119bb46.jpg" alt="Imagem" width="300px">
     </td>
     <td>
-      <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0000ff&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Júlia+Lika!;Currently+studying+Computer+Science;++;Self-taught+Front-End+Developer,;GameDev+in+my+free+time!;Starting+in+Robotics...;CTF+Newbie,;Love+to+learn+new+stuff!"></a></p>
+      <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0000ff&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Júlia+Lika!;Currently+studying+Computer+Engineering;++;Self-taught+Front-End+Developer,;GameDev+in+my+free+time!;Starting+in+Robotics...;CTF+Newbie,;Love+to+learn+new+stuff!"></a></p>
     </td>
   </tr>
 </table>
