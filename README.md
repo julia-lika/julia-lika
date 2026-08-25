@@ -53,22 +53,3 @@
 </p>
 
 <br><br>
-
-<!-- Stats -->
-<h3>Stats</h3>
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=julia-lika&show_icons=true&rank_icon=github&theme=tokyonight" />
-</a>
-<img height=200 align="center" src="https://i.pinimg.com/originals/38/3e/0e/383e0edf60a2ae892a686b18acdcb148.gif">
-</div>
-
-<div align="center">
-<img height=200 align="center" src="https://i.pinimg.com/originals/38/3e/0e/383e0edf60a2ae892a686b18acdcb148.gif">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julia-lika&layout=compact&card_width=320&theme=tokyonight&card_width=320" />
-</a>
-</div>
-<br><br><br>
-
-<img algin="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
